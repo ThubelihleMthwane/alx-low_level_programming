@@ -3,6 +3,7 @@
 /**
  * main - Entry point
  *
+ * Description: Task 6 file
  * return: Always 0 (success)
  */
 int main(void)
