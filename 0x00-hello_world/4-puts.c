@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - "Programming is like building a multilingual puzzle
+ * main - Printing
+ * @main: "Programming is like building a multilingual puzzle
  *
  * Description: Task 4 file
  * return: always 0 (success)
